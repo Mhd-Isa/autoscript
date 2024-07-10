@@ -30,7 +30,7 @@ clear
 clear && clear && clear
 clear;clear;clear
 echo -e "${BIBlue}╭══════════════════════════════════════════╮${NC}"
-echo -e "${BIBlue}│ ${BGCOLOR} WELCOME TO TUNNEL STORES            ${BIBlue} │${NC}"
+echo -e "${BIBlue}│ ${BGCOLOR}    WELCOME TO JMS STORE             ${BIBlue} │${NC}"
 echo -e "${BIBlue}╰══════════════════════════════════════════╯${NC}"
 echo ""
 sleep 4
